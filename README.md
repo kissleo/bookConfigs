@@ -1,6 +1,6 @@
 # bookConfigs
-##这里会分享爱阅书香的书源</br>
-###导入方式:
+这里会分享爱阅书香的书源</br>
+===导入方式:
 #### * 1.复制括号内的内容到浏览器打开(ifreetime://configs/https://github.com/gangxiaoji/bookConfigs)
 #### * 2.复制括号内的内容打开爱阅书香-右上角书源配置-同步-粘贴-获取书源配置(https://github.com/gangxiaoji/bookConfigs)
 ------
