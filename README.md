@@ -1,7 +1,7 @@
 # bookConfigs
 这里会分享爱阅书香的书源</br>
 ---
-如有失效可以发issue或者群里@我
+如有失效或者有想做成书源的网站可以发issue或者群里@我
 ---
 导入方式:
 #### * 1.复制括号内的内容到浏览器打开(ifreetime://configs/https://github.com/gangxiaoji/bookConfigs)
