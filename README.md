@@ -14,6 +14,7 @@
 |知轩藏书|没什么特殊的,个人比较喜欢的网站|否|是|http://www.zxcs.me/|
 |有毒小说|网站不错,但是书基本没有盗版源,喜欢dnd的可以看一下,有源的朋友可以发给我|否|是|https://www.youdubook.com|
 |海岸线|这个emmmmmmm~~~~~~~|是|是|~~~~~~|
+|一起看plus|书海:书库分类,排行榜|是|是|http://www.yqkplus.com|
 |闪舞小说|日常|是|否|http://35xs.com/|
 |神马小说网|日常|是|否|http://www.shenmaxs.com/|
 |熊掌追书|日常|是|否|http://xgssvip.com/|
