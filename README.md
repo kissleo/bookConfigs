@@ -1,11 +1,12 @@
 # bookConfigs
+
 这里会分享爱阅书香的书源</br>
 ---
 如有失效或者有想做成书源的网站可以发issue或者群里@我
 ---
-导入书源的两种方式:
-#### * 1.复制括号内的内容到浏览器打开(ifreetime://configs/https://github.com/gangxiaoji/bookConfigs)
-#### * 2.复制括号内的内容打开爱阅书香-右上角书源配置-同步-粘贴-获取书源配置(https://github.com/gangxiaoji/bookConfigs)
+* 导入书源的两种方式:
+	 * 1.复制括号内的内容到浏览器打开(<a href="">ifreetime://configs/https://github.com/gangxiaoji/bookConfigs</a>)
+	 * 2.复制括号内的内容打开爱阅书香-右上角书源配置-同步-粘贴-获取书源配置(https://github.com/gangxiaoji/bookConfigs)
 #### * ps:书源权重自行调整,书源配置-点击相应书源-高级配置-权重
 ------
 |书源|说明|搜索|书海|源网站|
