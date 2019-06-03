@@ -24,5 +24,4 @@
 |悠久小说网|日常|是|否|[下载](https://github.com/gangxiaoji/bookConfigs/raw/master/悠久小说网.ibs)|https://www.ujxs.com/|
 |在线阅读网|日常|是|否|[下载](https://github.com/gangxiaoji/bookConfigs/raw/master/在线阅读网.ibs)|http://www.yuedu88.com/|
 |38小说|日常|是|否|[下载](https://github.com/gangxiaoji/bookConfigs/raw/master/38小说.ibs)|https://www.38kanshu.com/|
-|37文学|日常|是|否|[下载](https://github.com/gangxiaoji/bookConfigs/raw/master/37文学.ibs)|https://www.37wx.top/|
 |100本网|日常|是|否|[下载](https://github.com/gangxiaoji/bookConfigs/raw/master/100本网.ibs)|https://www.100ben.net/|
