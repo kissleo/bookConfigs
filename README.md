@@ -20,7 +20,6 @@
 |有毒小说|网站不错,但是书基本没有盗版源,喜欢dnd的可以看一下,有源的朋友可以发给我|否|是|[下载](https://github.com/gangxiaoji/bookConfigs/raw/master/有毒小说(仅书海).ibs)|https://www.youdubook.com|
 |一起看plus|书海:书库分类,排行榜|是|是|[下载](https://github.com/gangxiaoji/bookConfigs/raw/master/一起看plus.ibs)|http://www.yqkplus.com|
 |闪舞小说|日常|是|否|[下载](https://github.com/gangxiaoji/bookConfigs/raw/master/闪舞小说.ibs)|http://35xs.com/|
-|神马小说网|日常|是|否|[下载](https://github.com/gangxiaoji/bookConfigs/raw/master/神马小说网.ibs)|http://www.shenmaxs.com/|
 |熊掌追书|日常|是|否|[下载](https://github.com/gangxiaoji/bookConfigs/raw/master/熊掌追书.ibs)|http://xgssvip.com/|
 |悠久小说网|日常|是|否|[下载](https://github.com/gangxiaoji/bookConfigs/raw/master/悠久小说网.ibs)|https://www.ujxs.com/|
 |在线阅读网|日常|是|否|[下载](https://github.com/gangxiaoji/bookConfigs/raw/master/在线阅读网.ibs)|http://www.yuedu88.com/|
