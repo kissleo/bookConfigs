@@ -19,9 +19,10 @@
 |知轩藏书|没什么特殊的,个人比较喜欢的网站|否|是|[下载](https://github.com/gangxiaoji/bookConfigs/raw/master/知轩藏书(仅书海).ibs)|http://www.zxcs.me/|
 |有毒小说|网站不错,但是书基本没有盗版源,喜欢dnd的可以看一下,有源的朋友可以发给我|否|是|[下载](https://github.com/gangxiaoji/bookConfigs/raw/master/有毒小说(仅书海).ibs)|https://www.youdubook.com|
 |一起看plus|书海:书库分类,排行榜|是|是|[下载](https://github.com/gangxiaoji/bookConfigs/raw/master/一起看plus.ibs)|http://www.yqkplus.com|
+|悠久小说网|还行吧|是|否|[下载](https://github.com/gangxiaoji/bookConfigs/raw/master/悠久小说网.ibs)|https://www.ujxs.com/|
+|大海中文网|火的小说还行|是|否|[下载](https://github.com/gangxiaoji/bookConfigs/raw/master/大海中文网.ibs)|https://www.dhzw.org/|
 |闪舞小说|日常|是|否|[下载](https://github.com/gangxiaoji/bookConfigs/raw/master/闪舞小说.ibs)|http://35xs.com/|
 |熊掌追书|日常|是|否|[下载](https://github.com/gangxiaoji/bookConfigs/raw/master/熊掌追书.ibs)|http://xgssvip.com/|
-|悠久小说网|日常|是|否|[下载](https://github.com/gangxiaoji/bookConfigs/raw/master/悠久小说网.ibs)|https://www.ujxs.com/|
 |在线阅读网|日常|是|否|[下载](https://github.com/gangxiaoji/bookConfigs/raw/master/在线阅读网.ibs)|http://www.yuedu88.com/|
 |38小说|日常|是|否|[下载](https://github.com/gangxiaoji/bookConfigs/raw/master/38小说.ibs)|https://www.38kanshu.com/|
 |100本网|日常|是|否|[下载](https://github.com/gangxiaoji/bookConfigs/raw/master/100本网.ibs)|https://www.100ben.net/|
