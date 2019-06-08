@@ -13,8 +13,8 @@
 |[优书网](https://github.com/gangxiaoji/bookConfigs/raw/master/优书网(仅书海).ibs)|功能</br>优书推荐</br>全部分类</br>小说评论</br>每周专题<br>所有书单</br>精品书单</br>最新书单</br>女频书单</br>加入了赤戟的各类型书单</br>只支持6.3.1+也就是现阶段的测试版</br>ps:推荐,书单和书单内容都是动态更新的|否|是|
 |[思路客(siluke.org)](https://github.com/gangxiaoji/bookConfigs/raw/master/思路客(siluke.org).ibs)|优质书源,更新快|是|是|
 |[诚信小说网](https://github.com/gangxiaoji/bookConfigs/raw/master/诚信小说网.ibs)|资源很好,更新快,没有广告|是|是|
-|[新笔趣阁](https://github.com/gangxiaoji/bookConfigs/raw/master/新笔趣阁.ibs)|书友推荐,看了一下还可以,对比了一下应该没人做(大概吧)|是|是|
-|[69书吧](https://github.com/gangxiaoji/bookConfigs/raw/master/69书吧.ibs)|书友推荐,源不错,优质推荐|是|是|
+|[新笔趣阁](https://github.com/gangxiaoji/bookConfigs/raw/master/新笔趣阁.ibs)|书友推荐,看了一下还可以,对比了一下应该没人做(大概吧)|是|否|
+|[69书吧](https://github.com/gangxiaoji/bookConfigs/raw/master/69书吧.ibs)|书友推荐,源不错,优质推荐|是|否|
 |[海岸线](https://github.com/gangxiaoji/bookConfigs/raw/master/海岸线.ibs)|这个emmmmmmm~~~~~~~ |是|是|
 |[一起看plus](https://github.com/gangxiaoji/bookConfigs/raw/master/一起看plus.ibs)|书海:书库分类,排行榜|是|是|
 |[悠久小说网](https://github.com/gangxiaoji/bookConfigs/raw/master/悠久小说网.ibs)|还行吧|是|否|
