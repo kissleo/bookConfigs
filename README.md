@@ -15,7 +15,6 @@
 |[诚信小说网](https://github.com/gangxiaoji/bookConfigs/raw/master/诚信小说网.ibs)|资源很好,更新快,没有广告|是|是|
 |[新笔趣阁](https://github.com/gangxiaoji/bookConfigs/raw/master/新笔趣阁.ibs)|书友推荐,看了一下还可以,对比了一下应该没人做(大概吧)|是|否|
 |[69书吧](https://github.com/gangxiaoji/bookConfigs/raw/master/69书吧.ibs)|书友推荐,源不错,优质推荐|是|否|
-|[海岸线](https://github.com/gangxiaoji/bookConfigs/raw/master/海岸线.ibs)|这个emmmmmmm~~~~~~~ |是|是|
 |[一起看plus](https://github.com/gangxiaoji/bookConfigs/raw/master/一起看plus.ibs)|书海:书库分类,排行榜|是|是|
 |[悠久小说网](https://github.com/gangxiaoji/bookConfigs/raw/master/悠久小说网.ibs)|还行吧|是|否|
 |[大海中文网](https://github.com/gangxiaoji/bookConfigs/raw/master/大海中文网.ibs)|火的小说还行|是|否|
