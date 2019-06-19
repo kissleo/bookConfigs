@@ -22,6 +22,5 @@
 |[100本网](https://github.com/gangxiaoji/bookConfigs/raw/master/100本网.ibs)|文学类|是|否|
 |[在线阅读网](https://github.com/gangxiaoji/bookConfigs/raw/master/在线阅读网.ibs)|文学类|是|否|
 |[闪舞小说](https://github.com/gangxiaoji/bookConfigs/raw/master/闪舞小说.ibs)|日常|是|否|
-|[熊掌追书](https://github.com/gangxiaoji/bookConfigs/raw/master/熊掌追书.ibs)|日常|是|否|
 |[38小说](https://github.com/gangxiaoji/bookConfigs/raw/master/38小说.ibs)|日常|是|否|
 
