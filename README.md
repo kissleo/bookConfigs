@@ -18,6 +18,7 @@
 |[69书吧](https://github.com/gangxiaoji/bookConfigs/raw/master/69书吧.ibs)|书友推荐,源不错,优质推荐|是|否|
 |[530p](https://github.com/gangxiaoji/bookConfigs/raw/master/530p.ibs)|更新快,延迟低|是|否|
 |[磨铁](https://github.com/gangxiaoji/bookConfigs/raw/master/磨铁.ibs)|磨铁中文网,很稳,没了|是|否|
+|[书书网](https://github.com/gangxiaoji/bookConfigs/raw/master/书书网.ibs)|还可以,更新比较快,排版也还行|是|否|
 |[悠久小说网](https://github.com/gangxiaoji/bookConfigs/raw/master/悠久小说网.ibs)|还行吧|是|否|
 |[大海中文网](https://github.com/gangxiaoji/bookConfigs/raw/master/大海中文网.ibs)|火的小说还行|是|否|
 |[知轩藏书](https://github.com/gangxiaoji/bookConfigs/raw/master/知轩藏书(仅书海).ibs)|没什么特殊的,个人比较喜欢的网站|否|是|
