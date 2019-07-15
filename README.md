@@ -17,6 +17,7 @@
 |[手打吧小说网](https://github.com/gangxiaoji/bookConfigs/raw/master/手打吧小说网.ibs)|书源不错,更新也很快|是|否|
 |[69书吧](https://github.com/gangxiaoji/bookConfigs/raw/master/69书吧.ibs)|书友推荐,源不错,优质推荐|是|否|
 |[530p](https://github.com/gangxiaoji/bookConfigs/raw/master/530p.ibs)|更新快,延迟低|是|否|
+|[米读小说](https://github.com/gangxiaoji/bookConfigs/raw/master/米读小说.ibs)|米读小说源|是|否|
 |[卡夜阁co](https://github.com/gangxiaoji/bookConfigs/raw/master/卡夜阁co.ibs)|更新速度还算可以,榜单书单内容还行|是|是|
 |[卡夜阁so](https://github.com/gangxiaoji/bookConfigs/raw/master/卡夜阁so.ibs)|更新快,延迟低,有某网站的书,但是后续章节是图片,可以切换到原网站观看|是|否|
 |[磨铁](https://github.com/gangxiaoji/bookConfigs/raw/master/磨铁.ibs)|磨铁中文网,很稳,没了|是|否|
